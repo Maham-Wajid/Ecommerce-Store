@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tinos&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+.cartBtn{
+    background: linear-gradient(60deg, #c827e4, #d27ae2) !important;
+    padding: 10px;
+    font-size: 1.35rem;
+}
+
+.cartBtn:hover{
+    background: linear-gradient(60deg, #d27ae2, #c827e4) !important;
+}
